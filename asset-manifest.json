@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LandingFood-React/static/css/main.05ed9db5.css",
+    "main.js": "/LandingFood-React/static/js/main.baffe2c9.js",
+    "static/media/bg.png": "/LandingFood-React/static/media/bg.4acca30de6cb9168c98a.png",
+    "static/media/logo.png": "/LandingFood-React/static/media/logo.893684faba0e50b1771f.png",
+    "index.html": "/LandingFood-React/index.html",
+    "main.05ed9db5.css.map": "/LandingFood-React/static/css/main.05ed9db5.css.map",
+    "main.baffe2c9.js.map": "/LandingFood-React/static/js/main.baffe2c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ed9db5.css",
+    "static/js/main.baffe2c9.js"
+  ]
+}
