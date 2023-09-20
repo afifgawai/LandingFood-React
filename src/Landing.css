@@ -1,0 +1,56 @@
+
+
+.logooo {
+  margin-top: 5rem;
+  
+  height:30rem ; /* You can adjust the width to your desired size */
+  width: auto; /* Maintain the aspect ratio */
+}
+.logodiv{
+  display: flex;
+  color: white;
+ 
+  height: 40rem;
+  background-color: black;
+}
+.textcontainer{
+  
+  margin-top: 6rem;
+  margin-left: 2rem ;
+}
+.textcontainer h1{
+  font-size: 6rem;
+}
+.services-container {
+  margin: 4rem 7rem;
+   /* Center the text horizontally */
+}
+
+.services-text {
+  margin-top: 2rem; /* Add space between the heading and text */
+}
+
+.services-text h3 {
+    
+  text-align: justify;
+  font-size: 1.5rem; /* Adjust the font size as needed */
+}
+html{
+  background-color: black;
+}
+
+.firstpage{
+  background-color: rgb(255, 255, 255);
+ 
+}
+.navlink a{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1rem 2rem;
+  color: black;
+
+}
+
+.navlink a:hover{
+  text-decoration: underline;
+  color: red;
+}
