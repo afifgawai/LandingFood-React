@@ -18,6 +18,7 @@ function App() {
   return (
     <Router><div className="App">
       <Routes>
+         <Route path="/LandingFood-React" element={<LandingPage />} />
         <Route path="/" element={<LandingPage />} />
         <Route path="/order-now/*" element={<OrderNow />} />
         
